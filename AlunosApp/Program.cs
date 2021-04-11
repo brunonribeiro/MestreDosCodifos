@@ -67,8 +67,8 @@ namespace AlunosApp
                 alunos.Add(new Aluno(nome, nota));
 
                 Console.WriteLine();
-                Console.WriteLine("Preciose ESQ para voltar para o menu");
-                Console.WriteLine("Preciose ENTER para continuar adicionando");
+                Console.WriteLine("Pressione ESQ para voltar para o menu");
+                Console.WriteLine("Pressione ENTER para continuar adicionando");
 
                 Console.WriteLine();
                 tecla = Console.ReadKey();

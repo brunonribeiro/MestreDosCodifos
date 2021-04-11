@@ -10,11 +10,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - SalarioApp", "SalarioApp\2 - SalarioApp.csproj", "{2A394ADD-C1B9-463E-838F-3016C18F35EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 - SalarioApp", "SalarioApp\2 - SalarioApp.csproj", "{2A394ADD-C1B9-463E-838F-3016C18F35EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 - MultiplosApp", "Multiplos\3 - MultiplosApp.csproj", "{DBD6A5D1-1CC4-4499-A060-5DABA2C65000}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3 - MultiplosApp", "Multiplos\3 - MultiplosApp.csproj", "{DBD6A5D1-1CC4-4499-A060-5DABA2C65000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 - AlunosApp", "AlunosApp\4 - AlunosApp.csproj", "{3BD86997-E265-40E6-BE0B-8531758B7E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4 - AlunosApp", "AlunosApp\4 - AlunosApp.csproj", "{3BD86997-E265-40E6-BE0B-8531758B7E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 - BhaskaraApp", "BhaskaraApp\5 - BhaskaraApp.csproj", "{68D3F5FC-96EB-4EA7-88D8-727CEA10D4F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,10 @@ Global
 		{3BD86997-E265-40E6-BE0B-8531758B7E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BD86997-E265-40E6-BE0B-8531758B7E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BD86997-E265-40E6-BE0B-8531758B7E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D3F5FC-96EB-4EA7-88D8-727CEA10D4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D3F5FC-96EB-4EA7-88D8-727CEA10D4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D3F5FC-96EB-4EA7-88D8-727CEA10D4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D3F5FC-96EB-4EA7-88D8-727CEA10D4F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
