@@ -34,8 +34,14 @@ Projeto: 2 - SalarioApp
 Projeto: 3 - MultiplosApp
 
 4) Faça uma aplicação que receba N alunos com suas respectivas notas. Use foreach para a estrutura de repetição.
-Crie um objeto Alunos.
-Armazene os alunos em uma lista.
-Imprima todos os alunos com médias superiores a 7.
 
 Projeto: 4 - AlunosApp
+
+5) Crie uma aplicação que calcule a fórmula de Bhaskara.
+
+Projeto: 5 - BhaskaraApp
+
+6) Crie uma aplicação, que demonstre a diferença entre REF e OUT.
+
+Projeto: 6 - ParametrosApp
+
