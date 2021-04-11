@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AlunosApp/obj
+/AlunosApp/bin/Debug/netcoreapp3.1
+/ConsoleApp/obj
+/ConsoleApp/bin
+/MestreDosCodigos/obj
+/Multiplos/obj
+/Multiplos/bin/Debug/netcoreapp3.1
+/SalarioApp/obj
+/SalarioApp/bin/Debug/netcoreapp3.1
