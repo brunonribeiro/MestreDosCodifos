@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 - ParametrosApp", "Parame
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 - SomarInterirosApp", "SomarNumerosInterirosApp\7 - SomarInterirosApp.csproj", "{6AB2C6D8-0CA1-48C3-9390-D77208318187}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 - OrdenacaoApp", "OrdenacaoApp\8 - OrdenacaoApp.csproj", "{D4B1960C-E73D-4597-B8CE-4ED4BB00A27F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{6AB2C6D8-0CA1-48C3-9390-D77208318187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AB2C6D8-0CA1-48C3-9390-D77208318187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AB2C6D8-0CA1-48C3-9390-D77208318187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B1960C-E73D-4597-B8CE-4ED4BB00A27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B1960C-E73D-4597-B8CE-4ED4BB00A27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B1960C-E73D-4597-B8CE-4ED4BB00A27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B1960C-E73D-4597-B8CE-4ED4BB00A27F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
