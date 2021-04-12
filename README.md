@@ -45,3 +45,11 @@ Projeto: 5 - BhaskaraApp
 
 Projeto: 6 - ParametrosApp
 
+7) Faça uma aplicação ler 4 números inteiros e calcular a soma dos que forem pares.
+
+Projeto: 7 - SomarInterirosApp
+
+8) Faça uma aplicação ler N valores decimais, imprima os valores em ordem crescente e decrescente.
+
+Projeto: 8 - OrdenacaoApp
+
