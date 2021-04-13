@@ -16,15 +16,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3 - MultiplosApp", "Multipl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4 - AlunosApp", "AlunosApp\4 - AlunosApp.csproj", "{3BD86997-E265-40E6-BE0B-8531758B7E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 - BhaskaraApp", "BhaskaraApp\5 - BhaskaraApp.csproj", "{68D3F5FC-96EB-4EA7-88D8-727CEA10D4F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5 - BhaskaraApp", "BhaskaraApp\5 - BhaskaraApp.csproj", "{68D3F5FC-96EB-4EA7-88D8-727CEA10D4F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 - ParametrosApp", "ParametrosApp\6 - ParametrosApp.csproj", "{FEC497B4-5AD8-46D1-B18D-F0D0FC3EEB31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6 - ParametrosApp", "ParametrosApp\6 - ParametrosApp.csproj", "{FEC497B4-5AD8-46D1-B18D-F0D0FC3EEB31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 - SomarInterirosApp", "SomarNumerosInterirosApp\7 - SomarInterirosApp.csproj", "{6AB2C6D8-0CA1-48C3-9390-D77208318187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7 - SomarInterirosApp", "SomarNumerosInterirosApp\7 - SomarInterirosApp.csproj", "{6AB2C6D8-0CA1-48C3-9390-D77208318187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 - OrdenacaoApp", "OrdenacaoApp\8 - OrdenacaoApp.csproj", "{D4B1960C-E73D-4597-B8CE-4ED4BB00A27F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8 - OrdenacaoApp", "OrdenacaoApp\8 - OrdenacaoApp.csproj", "{D4B1960C-E73D-4597-B8CE-4ED4BB00A27F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqApp", "LinqApp\LinqApp.csproj", "{630D795B-2E29-4523-9EF7-6640BC476A09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9 - LinqApp", "LinqApp\9 - LinqApp.csproj", "{630D795B-2E29-4523-9EF7-6640BC476A09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
