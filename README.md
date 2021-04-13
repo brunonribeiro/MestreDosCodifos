@@ -5,55 +5,38 @@ Perguntas teóricas de introdução
 
 1) Em quais linguagens o C# foi inspirado?  
 
-C# é uma linguagem baseada em C e C++ e foi inspirada na criação da linguagem Java.
+  C# é uma linguagem baseada em C e C++ e foi inspirada na criação da linguagem Java.
 
 2) Inicialmente o C# foi criado para qual finalidade?
 
-Foi criada para ser uma linguagem com foco na compilação de soluções de alto nível, com o objetivo de simplificar de modo significativo a complexidade como por exemplo o C++ tem, e trazendo novos elementos em relação ao Java
+  Foi criada para ser uma linguagem com foco na compilação de soluções de alto nível, com o objetivo de simplificar de modo significativo a complexidade como por exemplo o C++ tem, e trazendo novos elementos em relação ao Java
 
 3) Quais os principais motivos para a Microsoft ter migrado para o Core?
 
-Desenvolvimento em multiplataforma, funcionar nas plataformas Linux e no Mac além do Windows
+  Desenvolvimento em multiplataforma, funcionar nas plataformas Linux e no Mac além do Windows
 
 4) Cite as principais diferenças entre .Net Full Framework e .Net Core.
 
-Com o Net Core você pode tem o desenvolvimento em multiplataforma, maior performasse, possibilidade de usar containers do docker
+  Com o Net Core você pode tem o desenvolvimento em multiplataforma, maior performasse, possibilidade de usar containers do docker
 
-Trabalhando no Console
-
-1) Crie uma aplicação, que receba os valores A e B. Mostre de forma simples, como utilizar variáveis e manipular dados.
-
-Projeto: 1 - CalculadoraApp
-
-2) Crie uma aplicação que receba nome e salário de N funcionários. Utilize a repetição for e while.
-
-Projeto: 2 - SalarioApp
-
-3) Faça uma aplicação que imprima todos os múltiplos de 3, entre 1 e 100. Utilize a repetição while.
-
-Projeto: 3 - MultiplosApp
-
-4) Faça uma aplicação que receba N alunos com suas respectivas notas. Use foreach para a estrutura de repetição.
-
-Projeto: 4 - AlunosApp
-
-5) Crie uma aplicação que calcule a fórmula de Bhaskara.
-
-Projeto: 5 - BhaskaraApp
-
-6) Crie uma aplicação, que demonstre a diferença entre REF e OUT.
-
-Projeto: 6 - ParametrosApp
-
-7) Faça uma aplicação ler 4 números inteiros e calcular a soma dos que forem pares.
-
-Projeto: 7 - SomarInterirosApp
-
-8) Faça uma aplicação ler N valores decimais, imprima os valores em ordem crescente e decrescente.
-
-Projeto: 8 - OrdenacaoApp
-
-9) Utilizando a biblioteca LINQ crie no console e execute
-
-Projeto: 9 - LinqApp
+Trabalhando no Console 
+  Projetos estão numerados de acordo com os exercicios
+  
+Utilizando POO
+1) Responda e demonstre no código os itens abaixo:
+  O que é POO?
+    Programação orientada a objeto, sai da ideia da programação estruturada, e tenta trazer mais para o mundo real, manipulando objetos de forma separada, e tras algumas vantagens no desenvolvimento, como o a reutilização de códigos.
+    
+  O que é polimorfismo?
+    
+  O que é abstração?
+    
+  O que é encapsulamento?
+    
+  Quando usar uma classe abstrata e quando devo usar uma interface?
+    
+  O que faz as interfaces IDisposable, IComparable, ICloneable e IEnumerable?
+    
+  Existe herança múltipla (de classes) em C#?
+    
 
