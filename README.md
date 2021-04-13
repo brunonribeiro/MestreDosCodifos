@@ -53,3 +53,7 @@ Projeto: 7 - SomarInterirosApp
 
 Projeto: 8 - OrdenacaoApp
 
+9) Utilizando a biblioteca LINQ crie no console e execute
+
+Projeto: 9 - LinqApp
+
