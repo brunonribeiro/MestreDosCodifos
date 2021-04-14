@@ -25,22 +25,22 @@ Trabalhando no Console
 Utilizando POO
 1) Responda e demonstre no código os itens abaixo:
   
- O que é POO?
- 
-   Programação orientada a objeto, sai da ideia da programação estruturada, e tenta trazer mais para o mundo real, manipulando objetos de forma separada, e tras algumas vantagens no desenvolvimento, como o a reutilização de códigos.
-    
-  O que é polimorfismo?
-    
-   Polimofirmos é aplicado quando um objeto aplica uma herança, ou seja, herda comportamento de um outro objeto "pai", o polimorfismo é o conceito que permite alterar esses métodos de acordo com a necessidade de cada objeto "filho".
-   
-  O que é abstração?
-    
-  O que é encapsulamento?
-    
-  Quando usar uma classe abstrata e quando devo usar uma interface?
-    
-  O que faz as interfaces IDisposable, IComparable, ICloneable e IEnumerable?
-    
-  Existe herança múltipla (de classes) em C#?
-    
+     O que é POO?
+
+       Programação orientada a objeto, sai da ideia da programação estruturada, e tenta trazer mais para o mundo real, manipulando objetos de forma separada, e tras algumas vantagens no desenvolvimento, como o a reutilização de códigos.
+
+      O que é polimorfismo?
+
+       Polimofirmos é aplicado quando um objeto aplica uma herança, ou seja, herda comportamento de um outro objeto "pai", o polimorfismo é o conceito que permite alterar esses métodos de acordo com a necessidade de cada objeto "filho".
+
+      O que é abstração?
+
+      O que é encapsulamento?
+
+      Quando usar uma classe abstrata e quando devo usar uma interface?
+
+      O que faz as interfaces IDisposable, IComparable, ICloneable e IEnumerable?
+
+      Existe herança múltipla (de classes) em C#?
+
 
