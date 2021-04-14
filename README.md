@@ -5,19 +5,19 @@ Perguntas teóricas de introdução
 
 1) Em quais linguagens o C# foi inspirado?  
 
-  C# é uma linguagem baseada em C e C++ e foi inspirada na criação da linguagem Java.
+    C# é uma linguagem baseada em C e C++ e foi inspirada na criação da linguagem Java.
 
 2) Inicialmente o C# foi criado para qual finalidade?
 
-  Foi criada para ser uma linguagem com foco na compilação de soluções de alto nível, com o objetivo de simplificar de modo significativo a complexidade como por exemplo o C++ tem, e trazendo novos elementos em relação ao Java
+    Foi criada para ser uma linguagem com foco na compilação de soluções de alto nível, com o objetivo de simplificar de modo significativo a complexidade como por exemplo o C++ tem, e trazendo novos elementos em relação ao Java
 
 3) Quais os principais motivos para a Microsoft ter migrado para o Core?
 
-  Desenvolvimento em multiplataforma, funcionar nas plataformas Linux e no Mac além do Windows
+    Desenvolvimento em multiplataforma, funcionar nas plataformas Linux e no Mac além do Windows
 
 4) Cite as principais diferenças entre .Net Full Framework e .Net Core.
 
-  Com o Net Core você pode tem o desenvolvimento em multiplataforma, maior performasse, possibilidade de usar containers do docker
+    Com o Net Core você pode tem o desenvolvimento em multiplataforma, maior performasse, possibilidade de usar containers do docker
 
 Trabalhando no Console 
   Projetos estão numerados de acordo com os exercicios
