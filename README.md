@@ -24,9 +24,9 @@ Trabalhando no Console
   
 Utilizando POO
 1) Responda e demonstre no código os itens abaixo:
+  
   O que é POO?
-    
-     Programação orientada a objeto, sai da ideia da programação estruturada, e tenta trazer mais para o mundo real, manipulando objetos de forma separada, e tras algumas vantagens no desenvolvimento, como o a reutilização de códigos.
+    Programação orientada a objeto, sai da ideia da programação estruturada, e tenta trazer mais para o mundo real, manipulando objetos de forma separada, e tras algumas vantagens no desenvolvimento, como o a reutilização de códigos.
     
   O que é polimorfismo?
     
