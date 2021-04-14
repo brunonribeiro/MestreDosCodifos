@@ -13,7 +13,7 @@ Perguntas teóricas de introdução
 
 3) Quais os principais motivos para a Microsoft ter migrado para o Core?
 
-    Desenvolvimento em multiplataforma, funcionar nas plataformas Linux e no Mac além do Windows
+    Desenvolvimento em multiplataforma, funcionar nas plataformas Linux e no Mac além do Windows, além de necessidades técnicas para evolução tecnologica
 
 4) Cite as principais diferenças entre .Net Full Framework e .Net Core.
 
