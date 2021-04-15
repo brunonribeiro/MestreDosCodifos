@@ -58,5 +58,7 @@ Utilizando POO
      Existe herança múltipla (de classes) em C#?
      
      Não, só é permitido uma herança no C#, um objeto pode implementar várias interfaces, porém apenas herdar de uma classe base
+     
+     A demonstração desses conceitos em código serão feitos nos itens 2, 3 e 4.
 
 
