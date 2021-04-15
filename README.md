@@ -34,6 +34,8 @@ Utilizando POO
       Polimofirmos é aplicado quando um objeto aplica uma herança, ou seja, herda comportamento de um outro objeto "pai", o polimorfismo é o conceito que permite alterar esses métodos de acordo com a necessidade de cada objeto "filho".
 
      O que é abstração?
+     
+      Um objeto possui elementos e caracteristicas que o definem, na POO isso são as propriedades, além de ter ações, que são os métodos. A abstração consiste em definir quais serão as caracteristicas e ações de um objeto, sem implementalás, usadas para definir um padrão que serõa usados na criação de outros objetos
 
      O que é encapsulamento?
 
