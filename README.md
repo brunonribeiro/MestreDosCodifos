@@ -47,13 +47,13 @@ Utilizando POO
 
      O que faz as interfaces IDisposable, IComparable, ICloneable e IEnumerable?
      
-     Interface IDisposable, trás a assinatura de um método Dispose, ela é usada principalmente para liberar recursos não gerenciados, já que o coletor de lixo automaticamente libera a memória alocada para um objeto gerenciado quando esse objeto não é mais usado, portanto usamos o método Dispose para liberar recursos não gerenciados explicitamente.
+     IDisposable, trás a assinatura de um método Dispose, ela é usada principalmente para liberar recursos não gerenciados, já que o coletor de lixo automaticamente libera a memória alocada para um objeto gerenciado quando esse objeto não é mais usado, portanto usamos o método Dispose para liberar recursos não gerenciados explicitamente.
      
-     Interface IComparable, trás a assinatura de um método CompareTo, essa método retorna um inteiro, é usada para obrigar a implementação da comparação de dois elemento o enviado por parametro e o proprio objeto que é implementado, é usado normalmente para definir critério para dizer se dois objetos são iguais, ou para realizar ordenações em combinação com o método Sort
+     IComparable, trás a assinatura de um método CompareTo, essa método retorna um inteiro, é usada para obrigar a implementação da comparação de dois elemento o enviado por parametro e o proprio objeto que é implementado, é usado normalmente para definir critério para dizer se dois objetos são iguais, ou para realizar ordenações em combinação com o método Sort
      
-     Interface ICloneable, trás a assinatura de um método Clone, que permite que seja clonado um objeto, criando uma nova instancia, com os mesmo valores do objeto inicial
+     ICloneable, trás a assinatura de um método Clone, que permite que seja clonado um objeto, criando uma nova instancia, com os mesmo valores do objeto inicial
 
-     Interface IEnumerable, trás a assinatura de um método GetEnumerator, que por sua vez é de uma interface IEnumerator que retorna um objeto que implementa a interface IEnumerator, que é responsavel por permitir as interações de listas, para usarmos um foreach por exemplo, aonde é usado internamente o método MoveNext
+     IEnumerable, trás a assinatura de um método GetEnumerator, que por sua vez é de uma interface IEnumerator que retorna um objeto que implementa a interface IEnumerator, que é responsavel por permitir as interações de listas, para usarmos um foreach por exemplo, aonde é usado internamente o método MoveNext
 
      Existe herança múltipla (de classes) em C#?
      
