@@ -38,8 +38,6 @@ namespace ContaBancariaApp.Base
             return Retorno.Falha(string.Format(Mensagens.ValorDaOperacaoDeveSerMaiorQueZero, "Saque"));
         }
 
-
-
         public virtual string MostrarDados()
         {
             return $"Número da Conta: {NumeroDaConta}\nSaldo: {SaldoFormatado}";
