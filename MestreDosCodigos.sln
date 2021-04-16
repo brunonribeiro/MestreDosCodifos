@@ -26,7 +26,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8 - OrdenacaoApp", "Ordenac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9 - LinqApp", "LinqApp\9 - LinqApp.csproj", "{630D795B-2E29-4523-9EF7-6640BC476A09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_ 2 - PessoaApp", "PessoaApp\POO_ 2 - PessoaApp.csproj", "{ADBFECFA-FF5F-46DB-8B7B-6716B5682067}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_ 2 - PessoaApp", "PessoaApp\POO_ 2 - PessoaApp.csproj", "{ADBFECFA-FF5F-46DB-8B7B-6716B5682067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_3 - ContaBancariaApp", "ContaBancariaApp\POO_3 - ContaBancariaApp.csproj", "{50CA13E2-98BD-4DD8-A1EF-676C8FF93AED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +76,10 @@ Global
 		{ADBFECFA-FF5F-46DB-8B7B-6716B5682067}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADBFECFA-FF5F-46DB-8B7B-6716B5682067}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADBFECFA-FF5F-46DB-8B7B-6716B5682067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50CA13E2-98BD-4DD8-A1EF-676C8FF93AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CA13E2-98BD-4DD8-A1EF-676C8FF93AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CA13E2-98BD-4DD8-A1EF-676C8FF93AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CA13E2-98BD-4DD8-A1EF-676C8FF93AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
