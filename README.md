@@ -62,3 +62,10 @@ Utilizando POO
      A demonstração desses conceitos em código serão feitos nos itens 2, 3 e 4.
 
 
+
+
+ Trabalhando com testes
+    Quais os principais frameworks que podemos usar no desenvolvimento de testes?
+      MSTest, NUnit e xUnit
+
+
