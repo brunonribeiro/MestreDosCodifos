@@ -32,6 +32,9 @@ Utilizando POO
      O que é polimorfismo?
 
       Polimofirmos é aplicado quando um objeto aplica uma herança, ou seja, herda comportamento de um outro objeto "pai", o polimorfismo é o conceito que permite alterar esses métodos de acordo com a necessidade de cada objeto "filho".
+      
+      ![image](https://user-images.githubusercontent.com/66972790/115273234-ab953680-a115-11eb-934f-677f3709c049.png)
+
 
      O que é abstração?
      
@@ -60,6 +63,8 @@ Utilizando POO
      Não, só é permitido uma herança no C#, um objeto pode implementar várias interfaces, porém apenas herdar de uma classe base
      
      A demonstração desses conceitos em código serão feitos nos itens 2, 3 e 4.
+     
+     
 
 
 
