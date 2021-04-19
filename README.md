@@ -33,19 +33,27 @@ Utilizando POO
 
       Polimofirmos é aplicado quando um objeto aplica uma herança, ou seja, herda comportamento de um outro objeto "pai", o polimorfismo é o conceito que permite alterar esses métodos de acordo com a necessidade de cada objeto "filho".
       
-    
+    ![image](https://user-images.githubusercontent.com/66972790/115273909-82c17100-a116-11eb-8c1c-93dfdbbe8144.png)
 
      O que é abstração?
      
       Um objeto possui elementos e caracteristicas que o definem, na POO isso são as propriedades, além de ter ações, que são os métodos. A abstração consiste em definir quais serão as caracteristicas e ações de um objeto, de uma forma geral e podendo ser usadas para definir um padrão que serão usados na criação de outros objetos, que poderão ser apenas usados a mesma implementação da classe abstrata ou uma implementação específica usando o polimorfismo citado no item acima.
+      
+      ![image](https://user-images.githubusercontent.com/66972790/115274088-aedcf200-a116-11eb-971f-5c65e8043f24.png)
 
      O que é encapsulamento?
      
      Encapsulamento é uma técnica para evitar dar o acesso direto as propriedades do objeto, adicionando uma outra camada para a segurança, possibilitando fazer tratamentos especificos para receber e disponibilizar informações do objeto, normalmente são feitos usando métodos getters e setters.
+     
+     ![image](https://user-images.githubusercontent.com/66972790/115274158-c4521c00-a116-11eb-8b3b-4072715f339c.png)
+
 
      Quando usar uma classe abstrata e quando devo usar uma interface?
      
      Uma interface é usada quando se quer apenas definir o esqueleto, sem nenhum implementação, deixar apenas definido as assinaturas dos métodos para serem implementadas pelos objetos que implementaram a interface. Já uma classe abstrata é usada quando se quer ter parte da implementação definida num objeto pai, ou implementações de métodos feitos para serem usados nos objetos que implementaram essa classe abstrata.
+     
+     ![image](https://user-images.githubusercontent.com/66972790/115274489-1bf08780-a117-11eb-957a-62584f965cf4.png)
+
 
      O que faz as interfaces IDisposable, IComparable, ICloneable e IEnumerable?
      
