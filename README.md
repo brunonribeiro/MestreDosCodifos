@@ -59,6 +59,8 @@ Utilizando POO
      
      IDisposable, trás a assinatura de um método Dispose, ela é usada principalmente para liberar recursos não gerenciados, já que o coletor de lixo automaticamente libera a memória alocada para um objeto gerenciado quando esse objeto não é mais usado, portanto usamos o método Dispose para liberar recursos não gerenciados explicitamente.
      
+     ![image](https://user-images.githubusercontent.com/66972790/115321089-7f9ba480-a159-11eb-936f-ef6e2d71eaee.png)
+     
      IComparable, trás a assinatura de um método CompareTo, essa método retorna um inteiro, é usada para obrigar a implementação da comparação de dois elemento o enviado por parametro e o proprio objeto que é implementado, é usado normalmente para definir critério para dizer se dois objetos são iguais, ou para realizar ordenações em combinação com o método Sort
      
      ![image](https://user-images.githubusercontent.com/66972790/115319350-02226500-a156-11eb-9f1e-a8e873e21468.png)
