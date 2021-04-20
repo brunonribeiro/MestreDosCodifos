@@ -2,7 +2,7 @@
 
 namespace PessoaApp
 {
-    public class Pessoa
+    public class Pessoa : IComparable, IDisposable
     {
         private string _nome;
         private DateTime _dataNascimento;
@@ -43,6 +43,19 @@ namespace PessoaApp
                 idade--;
             }
             return idade;
+        }
+
+        public int CompareTo(object obj)
+        {
+            var pessoa = (Pessoa)obj;
+            return string.Compare(Nome, pessoa.Nome);
+        }
+
+        public void Dispose()
+        {
+            _nome = string.Empty;
+            _dataNascimento = new DateTime();
+            _altura = 0;
         }
     }
 }

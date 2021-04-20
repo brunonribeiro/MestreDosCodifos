@@ -8,7 +8,6 @@ namespace LinqApp
         static void Main(string[] args)
         {
             var manipulador = new ManipulardorDeLista();
-            //Transforme todos os números da lista em um Array.
 
             int opcao = ExibirMenu();
 

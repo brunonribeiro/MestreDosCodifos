@@ -88,7 +88,8 @@ namespace PessoaApp
                 Console.WriteLine("Lista de pessoas");
                 Console.WriteLine("------------------");
 
-                foreach (var pessoa in pessoas.OrderBy(x => x.Nome))
+                pessoas.Sort();
+                foreach (var pessoa in pessoas)
                 {
                     Console.WriteLine(pessoa.ToString());
                 }

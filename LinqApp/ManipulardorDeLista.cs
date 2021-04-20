@@ -1,17 +1,18 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace LinqApp
 {
-    public class ManipulardorDeLista
+    public class ManipulardorDeLista : IEnumerable<int?>
     {
         public ManipulardorDeLista()
         {
             _numeros = new List<int?>();
         }
 
-        private List<int?> _numeros;
+        private readonly List<int?> _numeros;
 
         internal void AdicionarNoInicio(int valor)
         {
@@ -78,6 +79,19 @@ namespace LinqApp
         internal int? ExibirNumeroInformado(int numero)
         {
             return _numeros.FirstOrDefault(x => x == numero);
+        }
+
+        public IEnumerator<int?> GetEnumerator()
+        {
+            foreach (var item in _numeros)
+            {
+                yield return item;
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
         }
     }
 }

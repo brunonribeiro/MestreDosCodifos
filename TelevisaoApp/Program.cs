@@ -95,7 +95,8 @@ namespace TelevisaoApp
 
         private static void ExibirTV(Televisao televisao)
         {
-            Console.WriteLine(televisao.ToString());
+            var copiaTelevisao = televisao.Clone();
+            Console.WriteLine(copiaTelevisao.ToString());
             Console.ReadKey();
         }
     }
