@@ -61,17 +61,19 @@ Utilizando POO
      
      IComparable, trás a assinatura de um método CompareTo, essa método retorna um inteiro, é usada para obrigar a implementação da comparação de dois elemento o enviado por parametro e o proprio objeto que é implementado, é usado normalmente para definir critério para dizer se dois objetos são iguais, ou para realizar ordenações em combinação com o método Sort
      
+     ![image](https://user-images.githubusercontent.com/66972790/115319350-02226500-a156-11eb-9f1e-a8e873e21468.png)
+     
      ICloneable, trás a assinatura de um método Clone, que permite que seja clonado um objeto, criando uma nova instancia, com os mesmo valores do objeto inicial
+     
+     ![image](https://user-images.githubusercontent.com/66972790/115319656-a86e6a80-a156-11eb-8935-245a43ea213e.png)
 
      IEnumerable, trás a assinatura de um método GetEnumerator, que por sua vez é de uma interface IEnumerator que retorna um objeto que implementa a interface IEnumerator, que é responsavel por permitir as interações de listas, para usarmos um foreach por exemplo, aonde é usado internamente o método MoveNext
+     
+     ![image](https://user-images.githubusercontent.com/66972790/115320507-6d6d3680-a158-11eb-9231-fe9760d980dc.png)
 
      Existe herança múltipla (de classes) em C#?
      
      Não, só é permitido uma herança no C#, um objeto pode implementar várias interfaces, porém apenas herdar de uma classe base
-     
-     A demonstração desses conceitos em código serão feitos nos itens 2, 3 e 4.
-     
-     
 
 
 
